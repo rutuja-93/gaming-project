@@ -116,14 +116,14 @@ text-align: end;
     border-radius: 6px;
     background-color: #3882f6;
     color: white;
-    text-align: right;
     border-color: white;
+    
 }
 .foter{
-    background-color: #1f2937;
+background-color: #1f2937;
 display: flex;
 justify-content: space-between;
-padding: 50px 700px;
+padding: 50px 690px;
 color: white;
 
 }
