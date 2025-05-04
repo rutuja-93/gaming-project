@@ -1,0 +1,129 @@
+.{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+font-family: sans-serif;
+}
+
+.header{
+background-color: #1f2937;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 12px 104px;
+}
+.logo{
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+}
+.header-right a{
+    color: #efe7eb;
+    font-size: 18px;
+    text-decoration: none;
+}
+.hero-section{
+    background-color: #1f2937;
+    color: white;
+    padding: 96px 104px;
+    display: flex;
+    justify-content: space-between;
+}
+.hero-section img{
+    width: 460px;
+    height: auto;
+}
+.hero-left h1,
+.hero-left p
+{
+    padding-bottom: 20px;
+}
+.hero-left button{
+    padding: 6px 12px;
+    background-color: #3882f6;
+    border: none;
+    border-radius: 6px;
+    color: white;
+}
+
+
+.random-info{
+text-align: center;
+padding: 40px 0;
+}
+
+.random-section{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.child-1 img{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+border-radius: 20px;
+}
+.child-1 p{
+    text-align: center;
+   
+
+}
+.hero-second{
+     padding: 70px 300px;
+    background-color: #efe7eb;
+
+}
+.quate-section{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.quate-section p{
+    font-size: 20px;
+    text-align: center;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: 800;
+}
+.hero-second h4{
+color: black;
+font-style: bold;
+text-align: end;
+}
+.last-section{
+    text-align: center;
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup{
+    background-color: #3882f6;
+    padding: 50px 120px ;
+    text-align: left;
+    color: white;
+    font-style: bold;
+}
+.signup p{
+    font-style: normal;
+    font-size:x-small;
+
+}
+.signup button{
+    border-radius: 6px;
+    background-color: #3882f6;
+    color: white;
+    text-align: right;
+    border-color: white;
+}
+.foter{
+    background-color: #1f2937;
+display: flex;
+justify-content: space-between;
+padding: 50px 700px;
+color: white;
+
+}
